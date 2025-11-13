@@ -43,6 +43,15 @@ Basic Django unit tests in `blogs/tests.py`.
 | Phase 4 | Real-time updates + suggestions | 1 day |
 | Phase 5 | Testing + documentation | 0.5 day |
 
+
+
+
+<img width="3584" height="1774" alt="image" src="https://github.com/user-attachments/assets/c3a1f1ff-4a50-4e17-b3e8-07ec4104e32e" />
+
+<img width="3580" height="1756" alt="image" src="https://github.com/user-attachments/assets/c43a4c34-f981-475d-898c-83e0658fe699" />
+
+
+
 ## 🚀 How to Run
 ### Backend
 ```bash
