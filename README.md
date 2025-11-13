@@ -50,6 +50,7 @@ Basic Django unit tests in `blogs/tests.py`.
 
 <img width="3580" height="1756" alt="image" src="https://github.com/user-attachments/assets/c43a4c34-f981-475d-898c-83e0658fe699" />
 
+<img width="3584" height="1764" alt="image" src="https://github.com/user-attachments/assets/85eb9191-a8de-4a21-970a-eb7c65160ce8" />
 
 
 ## 🚀 How to Run
